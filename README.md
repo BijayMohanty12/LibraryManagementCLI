@@ -1,4 +1,4 @@
- Library Management System (CLI)
+Library Management System (CLI)
 
 A command-line based Library Management System built using Java.
 This application allows users to manage books and user accounts through a simple CLI interface.
